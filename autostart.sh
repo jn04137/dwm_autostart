@@ -1,0 +1,3 @@
+picom &
+slstatus &
+nitrogen --restore &
