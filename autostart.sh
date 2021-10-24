@@ -1,3 +1,3 @@
 picom &
-slstatus &
 nitrogen --restore &
+dwmblocks &
